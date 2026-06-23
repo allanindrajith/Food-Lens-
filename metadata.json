@@ -1,0 +1,9 @@
+{
+  "name": "FOODLENS AI",
+  "description": "Real-Time Global Food Intelligence Engine. Unlock instant cultural, dietary, and culinary intelligence for any food using AI vision.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
